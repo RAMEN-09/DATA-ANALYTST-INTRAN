@@ -15,8 +15,8 @@ Steps Performed
 
  Files
 
-- `Raw_Data.xlsx`: Original dataset
-- `Cleaned_Customer_Data.xlsx`: Final cleaned data
+- `auto sales data (before)01.pdf`: Original dataset
+- ``: Final cleaned data
 - `Screenshots/`: Visuals of Excel steps (missing value check, duplicates, etc.)
 - `README.md`: Documentation of the project
 

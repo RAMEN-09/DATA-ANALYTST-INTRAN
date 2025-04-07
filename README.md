@@ -16,8 +16,8 @@ Steps Performed
  Files
 
 - `auto sales data (before)01.pdf`: Original dataset
-- ``: Final cleaned data
-- `Screenshots/`: Visuals of Excel steps (missing value check, duplicates, etc.)
+- `auto sales data (after)..pdf`: Final cleaned data
+ 
 - `README.md`: Documentation of the project
 
 Tools Used
